@@ -26,7 +26,7 @@ pipenv run python manage.py runserver 0.0.0.0:8888
 ## Endpoints
 
 ### [POST] /command/
-Send a command to the bot. Specificaly to consulte some stock quote.
+Send a command to the bot. Specifically to consult some stock quotes.
 
 JSON body parameters:
 ```json
