@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "~=3.2"
+djangorestframework = "~=3.12"
+requests = "~=2.26"
+
+[dev-packages]
+
+[scripts]
+execute = "bash ./execute.sh"
+
+[requires]
+python_version = "3"

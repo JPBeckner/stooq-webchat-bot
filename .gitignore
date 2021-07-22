@@ -33,3 +33,4 @@ venv.bak/
 
 # Local execution
 execute*.sh
+!execute.sh
